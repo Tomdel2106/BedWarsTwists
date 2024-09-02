@@ -1,0 +1,5 @@
+name: BedWarsTwists
+version: 1.0
+main: com.votrenomdepaquetage.bedwarstwists.BedWarsTwists
+api-version: 1.13
+depend: [BedWars1058]
